@@ -26,7 +26,9 @@ Clean Architecture · Microservices · REST APIs · CI/CD · Agile
 
 ## 📈 GitHub Stats
 
-[![Gennaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gennaroalberino&show_icons=true&theme=default)](https://github.com/gennaroalberino)
+![Gennaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gennaroalberino&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gennaroalberino&layout=compact&theme=tokyonight)
 
 ---
 
